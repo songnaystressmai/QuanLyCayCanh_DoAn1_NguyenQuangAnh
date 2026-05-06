@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuanLyCayCanh.BUS/QuanLyCayCanh.BUS.csproj" Id="3d62ccec-41fe-45f9-8135-9ac2a00d2838" />
+  <Project Path="QuanLyCayCanh.DAL/QuanLyCayCanh.DAL.csproj" Id="7fff827d-1373-478d-a974-401fb86eba0c" />
+  <Project Path="QuanLyCayCanh.DTO/QuanLyCayCanh.DTO.csproj" Id="d3f124d9-790c-4fb0-b37e-575d0a3daa27" />
+  <Project Path="QuanLyCayCanh.GUI/QuanLyCayCanh.GUI.csproj" Id="9d0d9e81-9e58-40f1-a76a-ac17d680f714" />
+</Solution>

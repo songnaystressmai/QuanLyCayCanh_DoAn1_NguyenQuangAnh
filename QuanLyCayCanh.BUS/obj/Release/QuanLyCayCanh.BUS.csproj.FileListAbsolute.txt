@@ -1,0 +1,16 @@
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.BUS.exe.config
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.BUS.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.BUS.pdb
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.DAL.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.DTO.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.DAL.pdb
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.DAL.exe.config
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.DTO.pdb
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\bin\Release\QuanLyCayCanh.DTO.exe.config
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCayCanh.BUS.csproj.AssemblyReference.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCayCanh.BUS.Properties.Resources.resources
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCayCanh.BUS.csproj.GenerateResource.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCayCanh.BUS.csproj.CoreCompileInputs.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCa.A8FA64C5.Up2Date
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCayCanh.BUS.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.BUS\obj\Release\QuanLyCayCanh.BUS.pdb

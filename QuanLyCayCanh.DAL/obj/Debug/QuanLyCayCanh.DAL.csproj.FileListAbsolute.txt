@@ -1,0 +1,13 @@
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\bin\Debug\QuanLyCayCanh.DAL.exe.config
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\bin\Debug\QuanLyCayCanh.DAL.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\bin\Debug\QuanLyCayCanh.DAL.pdb
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\bin\Debug\QuanLyCayCanh.DTO.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\bin\Debug\QuanLyCayCanh.DTO.pdb
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\bin\Debug\QuanLyCayCanh.DTO.exe.config
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCayCanh.DAL.csproj.AssemblyReference.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCayCanh.DAL.Properties.Resources.resources
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCayCanh.DAL.csproj.GenerateResource.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCayCanh.DAL.csproj.CoreCompileInputs.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCa.B5E6A4C2.Up2Date
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCayCanh.DAL.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DAL\obj\Debug\QuanLyCayCanh.DAL.pdb

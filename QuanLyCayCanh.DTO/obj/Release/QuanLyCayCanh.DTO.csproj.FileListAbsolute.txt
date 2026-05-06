@@ -1,0 +1,9 @@
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\bin\Release\QuanLyCayCanh.DTO.exe.config
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\bin\Release\QuanLyCayCanh.DTO.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\bin\Release\QuanLyCayCanh.DTO.pdb
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\obj\Release\QuanLyCayCanh.DTO.csproj.AssemblyReference.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\obj\Release\QuanLyCayCanh.DTO.Properties.Resources.resources
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\obj\Release\QuanLyCayCanh.DTO.csproj.GenerateResource.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\obj\Release\QuanLyCayCanh.DTO.csproj.CoreCompileInputs.cache
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\obj\Release\QuanLyCayCanh.DTO.exe
+F:\WIN\QuanLyCayCanh\QuanLyCayCanh.DTO\obj\Release\QuanLyCayCanh.DTO.pdb
